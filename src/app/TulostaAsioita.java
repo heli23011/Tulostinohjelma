@@ -3,9 +3,9 @@ package app;
 public class TulostaAsioita {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// tehdään muutos GitHub-kokeilua varten
 		
-		String tekija = "Heli";
+		String tekija = "Helinä-keiju";
 		double luku1 = 2;
 		double luku2 = 3;
 		double tulo = luku1 * luku2;
