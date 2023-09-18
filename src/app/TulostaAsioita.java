@@ -5,9 +5,9 @@ public class TulostaAsioita {
 	public static void main(String[] args) {
 		// tehdään muutos GitHub-kokeilua varten
 		
-		String tekija = "Helinä-keiju";
-		double luku1 = 2;
-		double luku2 = 3;
+		String tekija = "Heli";
+		double luku1 = 7;
+		double luku2 = 5;
 		double tulo = luku1 * luku2;
 		double osamaara = luku1 / luku2;
 		double summa = luku1 + luku2;
